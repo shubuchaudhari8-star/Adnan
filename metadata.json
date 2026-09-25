@@ -1,0 +1,6 @@
+{
+  "name": "HX",
+  "description": "NLP & Vector Search Empathy Engine with Emotion Extraction, Privacy Filter, Vector Store, and RAG Empathy Matching",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
